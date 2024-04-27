@@ -6,11 +6,7 @@
 
 ### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/calculadora-de-consumos-y-propinas.png)
-
-### Demo
-
-    https://calculadora-de-propinas-con-react-y-type-script.vercel.app/
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Cotizardor-Criptomonedas-en-javascript.png)
 
 ### Expresiones de Gratitud 🎁
 
