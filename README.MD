@@ -1,4 +1,4 @@
-# Cotizar Criptomonedas en javaScript
+# Cotizar Criptomonedas en JavaScript
 
 ##### Este cotizador de criptomonedas, desarrollado con HTML, CSS y JavaScript, utiliza el método fetch para obtener datos de una API. Su interfaz intuitiva permite a los usuarios cotizar diversas criptomonedas de manera rápida y sencilla. Para mejorar, se podrían implementar características como gráficos de tendencias, opciones de conversión de moneda y una interfaz más dinámica. Además, se podría optimizar el código para mejorar el rendimiento y la escalabilidad, y documentar claramente su funcionamiento para facilitar su comprensión y uso.
 
